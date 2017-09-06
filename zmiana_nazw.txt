@@ -1,7 +1,0 @@
-Zamiana nazw
-
-1. KsiazkaTelefoniczna kontakt[1000]			->		KsiazkaTelefoniczna kontakty[1000];
-2. wczytajZpliku(kontakty)						->		wczytajKontaktyZpliku(kontakty)
-3. wszystkieKontakty(kontakty, iloscOsob)		->		wypiszWszystkieKontakty(kontakty, iloscOsob)
-4. nowyKontakt[]								->		kontakty[]
-5. int j										->		int iloscZnalezionychKontakow
