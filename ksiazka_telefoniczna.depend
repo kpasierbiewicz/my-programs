@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1504460657 source:c:\users\karro\onedrive\pulpit\ksiazka_telefoniczna\main.cpp
+	<iostream>
+	<windows.h>
+	"ksiazkaTel.h"
+	<fstream>
+	<cstdlib>
+
+1503350895 source:c:\users\karro\onedrive\pulpit\ksiazka_telefoniczna\osoba.cpp
+	"osoba.h"
+	<iostream>
+	<string>
+
+1503350960 c:\users\karro\onedrive\pulpit\ksiazka_telefoniczna\osoba.h
+	<string>
+	<iostream>
+
+1504165949 source:c:\users\karro\onedrive\pulpit\ksiazka_telefoniczna\ksiazkatel.cpp
+	"ksiazkaTel.h"
+	<iostream>
+	<string>
+	<windows.h>
+	<cstdio>
+	<fstream>
+	<cstdlib>
+
+1504460814 c:\users\karro\onedrive\pulpit\ksiazka_telefoniczna\ksiazkatel.h
+	<iostream>
+	"osoba.h"
+

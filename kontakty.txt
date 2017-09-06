@@ -1,0 +1,18 @@
+1
+janek
+kowalski
+345678987
+krakow, ul. zielona 3
+jan@o2.pl
+2
+teresa
+kwiat
+2365789
+katowice
+kwiatek@gmail.com
+3
+ala
+maj
+212 123 123
+krakow, ul. rejmonta 23
+maj@gmail.com
